@@ -28,8 +28,10 @@ The EDA phase involves analyzing the dataset to gain insights. Key visualization
 
 A specific analysis is conducted for the year 2015, including the total number of fires reported and a monthly breakdown.
 
-**Average Fires by State:**
+**Average Fires by State**
+
 The average number of fires reported is calculated for each state, and a bar plot is created to display the states from highest to lowest average.
 
-**Conclusion:**
+**Conclusion**
+
 The "Forest Fires in Brazil" data analysis project provides valuable insights into the patterns and trends of forest fires in Brazil. It utilizes various data analysis techniques, visualizations, and Python libraries to explore and interpret the dataset. The findings can contribute to a better understanding of the factors influencing forest fires in the region.
